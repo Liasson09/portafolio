@@ -1,4 +1,4 @@
-# Portafolio ¡Hola, bienvenido al proyecto de portafolio!
+# ¡Hola, bienvenido a este proyecto!
 
 ## Herramientas utilizadas:
 
